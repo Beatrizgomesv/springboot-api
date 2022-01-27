@@ -4,9 +4,6 @@
 Creating a Web Java project with Spring Boot and JPA/Hibernate from Professor Nélio Alves Complete Java course.
 
 
-## Authors
-
-- [@NelioAlves](https://github.com/acenelio/workshop-springboot2-jpa)
 
   
 ## Feedback
