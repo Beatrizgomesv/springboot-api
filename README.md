@@ -1,7 +1,6 @@
 
 # Web Services Project
-
-Creating a Web Java project with Spring Boot and JPA/Hibernate from Professor Nélio Alves Complete Java course.
+Creating a Java web project with Spring Boot and JPA/Hibernate using the PostgreSQL database and deploying the system on Heroku.
 
 
 
